@@ -1,6 +1,9 @@
 # 📰News App
 
-A news app made with Kotlin in Android. [NewsAPI](https://newsapi.org/) is used for this app. In the project, the [recommended app architecture](https://developer.android.com/topic/architecture#recommended-app-arch) was preferred.
+A news app made with Kotlin in Android. [NewsAPI](https://newsapi.org/) is used for this app. In the
+project,
+the [recommended app architecture](https://developer.android.com/topic/architecture#recommended-app-arch)
+was preferred.
 
 ## 🛠 Tech Stack
 
@@ -18,4 +21,4 @@ A news app made with Kotlin in Android. [NewsAPI](https://newsapi.org/) is used 
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/46245749/166441539-f7c84f14-05c2-4634-802b-38135f73da7f.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/166441674-3c405eee-de3a-4503-a0b1-c1be0d911e76.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/166441636-415148d0-358c-49ba-8d73-f698fdb166d4.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/166441857-845d9da5-0841-4c22-86c5-e568a37055c7.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/166441925-58c3158c-7d6b-48ca-a764-71134652b9c5.png" width="30%" height="30%"/>
+<img src="https://github.com/user-attachments/assets/8a08f2fe-5551-4957-8a6e-b39ffa297235" width="30%" height="30%"/> <img src="https://github.com/user-attachments/assets/2e3cc4da-2ba1-4952-8dc1-03b5f4f4b955" width="30%" height="30%"/> <img src="https://github.com/user-attachments/assets/79f5157c-ceaa-4c31-b804-3b0999b07c30" width="30%" height="30%"/> <img src="https://github.com/user-attachments/assets/ff42a852-9e2c-4b42-ae3d-d5155c37228e" width="30%" height="30%"/> <img src="https://github.com/user-attachments/assets/f17145f3-6ed5-445e-a9a4-debe5beb1ba2" width="30%" height="30%"/>
